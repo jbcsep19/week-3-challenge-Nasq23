@@ -60,7 +60,7 @@ public class Main {
         System.out.println("Please enter your enddate: ");
         git7 = input.nextInt();
         cat1.setEnddate(0);
-        System.out.println("Thank you for your entries we'll be in touchA" +
+        System.out.println("Thank you for your entries we'll be in touch" +
                 "");
     }
 }
