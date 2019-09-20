@@ -6,7 +6,7 @@ public class Heidi {
     private String company;
     private int starttdate;
     private int enddate;
-    private String emailadress;
+    private String emailaddress;
 
 
     private String display;
@@ -64,12 +64,12 @@ public class Heidi {
         this.enddate = enddate;
     }
 
-    public String getEmailadress() {
-        return emailadress;
+    public String getEmailaddress() {
+        return emailaddress;
     }
 
-    public void setEmailadress(String emailadress) {
-        this.emailadress = emailadress;
+    public void setEmailaddress(String emailaddress) {
+        this.emailaddress = emailaddress;
     }
 
     public String getDisplay() {
